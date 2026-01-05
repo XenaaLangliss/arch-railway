@@ -1,7 +1,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-Latest-1793D1?logo=archlinux)
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
 
-# ArchLinux-Railway
+# Arch-Railway
 
 Want to try out Arch Linux or want to have a mini version of Arch Linux available at all times? Then feel free to give this project a try:
 
