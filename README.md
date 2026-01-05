@@ -5,7 +5,7 @@
 
 Want to try out Arch Linux or want to have a mini version of Arch Linux available at all times? Then feel free to give this project a try:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/YOUR_TEMPLATE_ID?referralCode=zkQBwB)
+[![Deploy on Railway](https://railway.app/button.svg)]([https://railway.com/deploy/YOUR_TEMPLATE_ID?referralCode=zkQBwB](https://railway.com/deploy/arch-linux))
 
 ## Description
 
