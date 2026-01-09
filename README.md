@@ -1,11 +1,11 @@
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-Latest-1793D1?logo=archlinux)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-Base-1793D1?logo=archlinux)
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
 
 # Arch-Railway
 
 Want to try out Arch Linux or want to have a mini version of Arch Linux available at all times? Then feel free to give this project a try:
 
-[![Deploy on Railway](https://railway.app/button.svg)]([https://railway.com/deploy/YOUR_TEMPLATE_ID?referralCode=zkQBwB](https://railway.com/deploy/arch-linux))
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/arch-linux)
 
 ## Description
 
@@ -13,7 +13,7 @@ This project uses the official [Arch Linux](https://hub.docker.com/_/archlinux) 
 
 ### Features
 
-- 🐧 Official Arch Linux Latest base
+- 🐧 Official Arch Linux base
 - 🔒 Password-protected web terminal
 - 💻 Neofetch display on login
 
